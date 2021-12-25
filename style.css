@@ -1,0 +1,10 @@
+body{
+    background-color: pink;
+}
+.text{
+    color: green;
+}
+#img{
+    height: auto;
+    width: auto;
+}
